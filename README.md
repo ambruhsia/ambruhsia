@@ -72,6 +72,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambruhsia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8)
 
+
+![Snake animation](https://raw.githubusercontent.com/ambruhsia/ambruhsia/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -212,7 +215,6 @@ Big data pipeline processing multi-database medical records. Evaluated 6+ ML mod
 
 **Currently researching at Georgia Tech 🐝 | Building the future of responsible AI 🚀**
 
-![Snake animation](https://raw.githubusercontent.com/ambruhsia/ambruhsia/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
