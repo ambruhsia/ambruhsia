@@ -19,7 +19,7 @@
 ### 🎯 About Me
 
 - 🔬 Research Intern at **Georgia Tech** 
-- 🧠 Previously R&D ML Intern(Federated Learning)
+- 🧠 Previously R&D ML Intern
 - 🎓 B.Tech in **Computer Science & Data Science**
 - 🏆 **Kaggle Contributer** | BirdCLEF 2025 Top 100
 - 📊 Passionate about **deep learning, computer vision, and responsible AI**
