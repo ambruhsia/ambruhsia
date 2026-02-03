@@ -5,7 +5,7 @@
 
 ### 🔬 R&D Machine Learning Engineer | Data Scientist | AI Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Researching+LLMs+and+AI+%40+Georgia+Tech;Building+federated+learning+systems;Turning+data+into+actionable+insights;Open+source+enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Researching+LLMs+and+AI+%40+Georgia+Tech;Turning+data+into+actionable+insights;Open+source+enthusiast+%F0%9F%92%9C" alt="Typing SVG" />
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Contributer-CD7F32?style=flat&logo=kaggle)](https://www.kaggle.com/amritarajput54)
 [![Views](https://komarev.com/ghpvc/?username=ambruhsia&color=6C63FF&style=flat)](https://github.com/ambruhsia)
